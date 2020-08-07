@@ -13,8 +13,10 @@ Disclaimer: The data inside this repository is limited and is meant to be used o
 
 To make this code work with your data, the MR images should have the following structure. 
 
-Patient_folder_from_center_A/Patient#/MR_sequence/Patient#__.nii
-
+Patient_folder_from_center_A/Patient#/Patient#_MRsequence1.nii.gz (T2)
+Patient_folder_from_center_A/Patient#/Patient#_MRsequence2.nii.gz (ADC)
+Patient_folder_from_center_A/Patient#/Patient#_MRsequence3.nii.gz (DWI)
+Patient_folder_from_center_A/Patient#/Patient#_mask.nii.gz (segmentation/ROI)
                                                 
 ### Labels: 
 The labels for the patient should included in a txt file following this format. 
