@@ -13,20 +13,16 @@ Disclaimer: The data inside this repository is limited and is meant to be used o
 
 To make this code work with your data, the MR images should have the following structure. 
 
-Patient_folder_from_center_A
-                           |     
-                           |Patient#
-                                    |
-                                     Mr_sequence
-                                                |Patient#__.nii
+Patient_folder_from_center_A/Patient#/MR_sequence/Patient#__.nii
+
                                                 
 ### Labels: 
 The labels for the patient should included in a txt file following this format. 
 
-Patient     Label
+Patient    Label
 
-Patient_1   1
-Patient_2   0
+Patient1   1
+Patient2   0
 
 
 ## Requirements.
