@@ -20,6 +20,6 @@ Patient_folder_from_center_A
                                      Mr_sequence
                                                 |Patient#__.nii
                                                 
-###Labels: 
+### Labels: 
 The labels for the patient should included in a txt file following this format. 
 
