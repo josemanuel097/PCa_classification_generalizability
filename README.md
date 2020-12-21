@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-This repository contains the code used to test the generalizability of radiomics model in the context of prostate cancer classification. For this experiment we used the open source python package named Worflow for Optimal Radiomics Classification. The detail about how to use this software can be found in WORC's documentation.  We would like to invite researchers working with data sets formed by multiple healtcare centers and scanner to try this code with their own data, and comment their results. To make easier the understanding of how to use this code, this repository includes a functional demostration on PROSTATEX data set. 
+This repository contains the code used to test the generalizability of radiomics model in the context of prostate cancer classification. For this experiment we used the open source python package named Worflow for Optimal Radiomics Classification. The details about WORC packagee can be found in WORC's documentation (https://worc.readthedocs.io/en/latest/).  We would like to invite researchers working with data sets formed by multiple healtcare centers and scanner to try this code with their own data, and comment their results. To make easier the understanding of how to use this code, this repository includes a demostration based on the PROSTATEX data set. 
 
 Disclaimer: The data inside this repository is limited and is meant to be used only as example to learn how to adapt yuour data to this experiment. The results obtained with this limited set should not be considered for analyisis or making conclusions.
 
