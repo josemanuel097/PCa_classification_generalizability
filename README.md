@@ -3,9 +3,9 @@
 
 ## Introduction 
 
-<p align="justify"> This repository contains the code used to test the generalizability of radiomics model in the context of prostate cancer classification. For this experiment we used the open source python package named Worflow for Optimal Radiomics Classification. The details about WORC packagee can be found in WORC's documentation (https://worc.readthedocs.io/en/latest/).  We would like to invite researchers working with data sets formed by multiple healtcare centers and scanner to try this code with their own data, and comment their results. To make easier the understanding of how to use this code, this repository includes a demostration based on the PROSTATEX data set. 
+<p align="justify"> This repository contains the code used to test the generalizability of a radiomics model in the context of prostate cancer classification. For this experiment we used the open source python toolbox named Worflow for Optimal Radiomics Classification(WORC). The details about WORC  can be found in the  documentation (https://worc.readthedocs.io/en/latest/).  We would like to invite researchers working with data sets gathered from multiple healtcare centers and vendors to try this code with their own data, and comment their results. To facilitate the usage of this code, this repository includes a demostration based on the PROSTATEX challenge data set, the details regarding this public data set can be found in (https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges). 
 
-<p align="justify"> Disclaimer: The data inside this repository is limited and is meant to be used only as example to learn how to adapt yuour data to this experiment. The results obtained with this limited set should not be considered for analyisis or making conclusions.
+<p align="justify"> Disclaimer: The data inside this repository is limited and is meant to be used only as example to learn how to adapt your data to this experiment.Therefore, the results obtained with this tutorial are not representative of the results published on our paper [].Nevertheless, this code will allow you to test the generazability of your own radiomics model. 
 
 ## Example Tutorial: Data organization.
 
