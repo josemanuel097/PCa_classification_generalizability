@@ -26,8 +26,8 @@ The labels for the patient should included in a txt file following this format. 
 
 Patient    Label  
 
-Patient1   1
-Patient2   0
+Patient_1   1
+Patient_2   0
 
 
 ## Requirements.
