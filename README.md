@@ -34,4 +34,6 @@ Patient_2   0 <br />
 
 Package requirements can be found in requirements.txt
 
+## Contact
+You may contact us  through j.castillotovar@erasmusmc.nl or joe97castillo@gmail.com.
 
