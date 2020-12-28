@@ -22,9 +22,9 @@ To make this code work with your data, the MR images should have the following s
 -Patient_folder_from_center_A/Patient#/Patient#_mask.nii.gz (segmentation/ROI)
                                                 
 ### Labels: 
-The labels for the patient should included in a txt file following this format. 
+The labels for the patient should included in a txt file following this format. In our case we define as 1 a Gleason Score ≥ 7.
 
-Patient    Label
+Patient    Label  
 
 Patient1   1
 Patient2   0
