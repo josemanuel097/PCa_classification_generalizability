@@ -133,8 +133,8 @@ def selectsources(option, settings, name):
 
     # NOTE: Make sure these files are in your input mount
     # We add labels either for training and test set
-    network.labels_train.append("vfs://home/worc_prostate/Labels_hospital.txt")
-    network.labels_test.append("vfs://home/worc_prostate/Labels_hospital.txt")
+    network.labels_train.append("vfs://home/jtovar/PCa_classification_generalizability/Patient_labels.txt")
+    network.labels_test.append("vfs://home/jtovar/PCa_classification_generalizability/Patient_labels.txt")
     # network.semantics_train.append("vfs://home/worc_prostate/sem_Prostate.csv")
 
 
